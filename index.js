@@ -5,4 +5,4 @@ function scuberGreetingForFeet(){
 }else if (){
   
 }
-function 
+function ternaryCheckCity()
