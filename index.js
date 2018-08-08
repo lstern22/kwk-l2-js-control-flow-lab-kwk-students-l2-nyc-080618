@@ -1,6 +1,7 @@
 // Write your code in this file!
 function scuberGreetingForFeet(){
-  if( ride ){
+  if(ride <= 400){
+    
     
 }else if (){
   
