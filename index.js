@@ -1,2 +1,8 @@
 // Write your code in this file!
-Function
+function scuberGreetingForFeet(){
+  if(){
+    
+}else if (){
+  
+}
+function 
